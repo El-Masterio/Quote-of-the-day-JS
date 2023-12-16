@@ -1,0 +1,32 @@
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+  line-height: normal;
+  color: #000;
+  font-weight: 900;
+}
+div {
+  height: 100vh;
+  overflow: hidden;
+}
+/* body {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+} */
+button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+  font-size: 13px;
+}
+p {
+  font-size: 35px;
+  font-family: "Times New Roman", Times, serif;
+  margin: 2.1875rem 0;
+}
+
+button:hover {
+  background-color: green;
+}
